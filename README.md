@@ -1,16 +1,9 @@
 # sweating_app
 
-A new Flutter project.
+Let's sweat! - is a wonderful workout app for lazy people who only manage to do some simple training at home, no hard internal running. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Download this app.   
+2. Have some cookies as a reward for taking your first step into a better life with training.
+3. To be continued...
